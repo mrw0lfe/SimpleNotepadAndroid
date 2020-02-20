@@ -125,8 +125,8 @@ public class MainActivity extends AppCompatActivity implements NoteEventListener
         // navigation menu header
         AccountHeader header = new AccountHeaderBuilder().withActivity(this)
                 .addProfiles(new ProfileDrawerItem()
-                        .withEmail("feedback.mrzero@gmail.com")
-                        .withName("ixiDev")
+                        .withEmail("shi0kami@outlook.jp")
+                        .withName("Mr Okami")
                         .withIcon(R.mipmap.ic_launcher_round))
                 .withSavedInstance(savedInstanceState)
                 .withHeaderBackground(R.drawable.ic_launcher_background)
